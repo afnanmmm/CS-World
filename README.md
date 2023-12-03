@@ -1,5 +1,5 @@
 # CS_World
-The game is about a girl and she is a university student majoring in Computer Science. The goal of the game is to help her pass all of the game's levels. it has 3 levels and each level has 4-5 questions about two subjects from her academic career arranged from the easiest to hardest. (group work)
+This game is about a Computer Science student who needs the player's help to pass her exams. The goal of the game is to help her pass all of the game's levels. it has 3 levels and each level has 4-5 mini-games about two subjects from her academic career. (group work)
 
 # Dependencies
 These are the requirements to run this game:
